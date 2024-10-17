@@ -1,0 +1,7 @@
+C:\Users\baran\source\repos\Week-2-Exercise\Week-2-Exercise\obj\Debug\Week-2-Exercise.csproj.AssemblyReference.cache
+C:\Users\baran\source\repos\Week-2-Exercise\Week-2-Exercise\obj\Debug\Week-2-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\baran\source\repos\Week-2-Exercise\Week-2-Exercise\bin\Debug\Week-2-Exercise.exe.config
+C:\Users\baran\source\repos\Week-2-Exercise\Week-2-Exercise\bin\Debug\Week-2-Exercise.exe
+C:\Users\baran\source\repos\Week-2-Exercise\Week-2-Exercise\bin\Debug\Week-2-Exercise.pdb
+C:\Users\baran\source\repos\Week-2-Exercise\Week-2-Exercise\obj\Debug\Week-2-Exercise.exe
+C:\Users\baran\source\repos\Week-2-Exercise\Week-2-Exercise\obj\Debug\Week-2-Exercise.pdb
